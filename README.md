@@ -1,8 +1,14 @@
-<h2> Hi, I'm Krishna Jain! <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/image.png" width="50"></h2> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> <p><em>Computer Science Student at <a href="https://www.iiits.ac.in/">IIIT Sri City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Intern at <a href="https://growdigiindia.com/">Grow Digi India Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<h2> Hi, I'm Krishna Jain! <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your-static-image.png" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Computer Science Student at <a href="https://www.iiits.ac.in/">IIIT Sri City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Intern at <a href="https://growdigiindia.com/">Grow Digi India Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-javascript
-Copy code
+[![Twitter: KrishnaJain](https://img.shields.io/twitter/follow/KrishnaJain?style=social)](https://twitter.com/yourusername)
+[![Linkedin: krishna-jain](https://img.shields.io/badge/-krishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krishna-jain/)](https://www.linkedin.com/in/krishna-jain/)
+[![GitHub Krishna](https://img.shields.io/github/followers/KRISHNA-JAIN15?label=follow&style=social)](https://github.com/KRISHNA-JAIN15)
+
+### <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your-static-image.png" width="50"> A little more about me...  
+
+```javascript
 const krishna = {
   pronouns: "he" | "him",
   code: [Python, C++, HTML/CSS, JavaScript, SQL, Java],
@@ -24,4 +30,5 @@ const krishna = {
   ],
   currentChallenge: "Building cutting-edge solutions in AI and NLP"
 }
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I’m passionate about connecting with others and tackling challenging problems!</b> Feel free to reach out for collaboration or just to say hi! :)</em>
+```
+<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your-static-image.png" width="60"> <em><b>I’m passionate about connecting with others and tackling challenging problems!</b> Feel free to reach out for collaboration or just to say hi! :)</em>
