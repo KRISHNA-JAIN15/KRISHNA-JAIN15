@@ -1,4 +1,5 @@
-<h2> Hi, I'm Krishna Jain! <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your-static-image.png" width="50"></h2>
+<h2> Hi, I'm Krishna Jain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <p><em>Computer Science Student at <a href="https://www.iiits.ac.in/">IIIT Sri City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Intern at <a href="https://growdigiindia.com/">Grow Digi India Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Twitter: KrishnaJain](https://img.shields.io/twitter/follow/KrishnaJain?style=social)](https://twitter.com/yourusername)
@@ -30,4 +31,4 @@ const krishna = {
   currentChallenge: "Building cutting-edge solutions in AI and NLP"
 }
 ```
-<img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/your-static-image.png" width="60"> <em><b>I’m passionate about connecting with others and tackling challenging problems!</b> Feel free to reach out for collaboration or just to say hi! :)</em>
+<em><b>I’m passionate about connecting with others and tackling challenging problems!</b> Feel free to reach out for collaboration or just to say hi! :)</em>
