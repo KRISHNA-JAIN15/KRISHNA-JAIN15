@@ -1,5 +1,5 @@
 <h2> Hi, I'm Krishna Jain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://github.com/KRISHNA-JAIN15/KRISHNA-JAIN15/blob/main/octocat.png" width="230">
+<img align='right' src="https://github.com/KRISHNA-JAIN15/KRISHNA-JAIN15/blob/main/octocat.png" width="500">
 
 <p><em>Computer Science Student at <a href="https://www.iiits.ac.in/">IIIT Sri City</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>AI Intern at <a href="https://growdigiindia.com/">Grow Digi India Ltd</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
