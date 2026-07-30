@@ -153,10 +153,8 @@ MERN dashboard for centralized secret management with granular access control, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KRISHNA-JAIN15&show_icons=true&hide_border=true&bg_color=0D1117&title_color=c4b5fd&icon_color=7dd3fc&text_color=8b93a7&ring_color=4ade80&cache_seconds=86400" alt="GitHub stats" height="165">
 <img src="https://streak-stats.demolab.com/?user=KRISHNA-JAIN15&hide_border=true&background=0D1117&stroke=0D1117&ring=4ade80&fire=fbbf24&currStreakLabel=c4b5fd&sideLabels=8b93a7&currStreakNum=ffffff&sideNums=ffffff&dates=5b6478" alt="GitHub streak" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNA-JAIN15&hide_border=true&bg_color=0D1117&title_color=c4b5fd&text_color=8b93a7&layout=compact&langs_count=8&cache_seconds=86400" alt="top languages" height="165">
 
 </div>
 
